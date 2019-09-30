@@ -24,12 +24,6 @@ sheets, simply set \code{x} to a named list of data frames.
 \details{
 Currently supports strings, numbers, booleans and dates. Formatting options
 may be added in future versions.
-
-\if{html}{
-\out{
-<link rel="stylesheet" type="text/css" href="https://jeroen.github.io/clippy/clippy.min.css" media="all">
-<script src="https://jeroen.github.io/clippy/bundle.js"></script>
-}}
 }
 \examples{
 # Roundtrip example with single excel sheet named 'mysheet'

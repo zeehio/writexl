@@ -6,11 +6,6 @@
 #' Currently supports strings, numbers, booleans and dates. Formatting options
 #' may be added in future versions.
 #'
-#' \if{html}{
-#' \out{
-#' <link rel="stylesheet" type="text/css" href="https://jeroen.github.io/clippy/clippy.min.css" media="all">
-#' <script src="https://jeroen.github.io/clippy/bundle.js"></script>
-#' }}
 #'
 #' @export
 #' @aliases writexl
